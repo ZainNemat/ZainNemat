@@ -1,9 +1,9 @@
 # Hi, I’m Zain Nemat 👋
 
 ### 👨‍💻 About Me
-- Full-stack / Mobile-first developer  
+- Software developer  
 - Building **Ztuth** – a modern multi-platform dental SaaS  
-- Passionate about React Native, TypeScript, Python, and developer tooling  
+- Passionate about ElectronJS, React Native, TypeScript.  
 
 ### 🛠️ Tech Stack
 ![React Native](https://img.shields.io/badge/React%20Native-61DAFB?logo=react&logoColor=black)
@@ -13,10 +13,17 @@
 ![NestJS](https://img.shields.io/badge/NestJS-e0234e?logo=nestjs&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?logo=postgresql&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws)
+![Next.js](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white)
+![Expo](https://img.shields.io/badge/Expo-000020?logo=expo&logoColor=white)
+![Electron](https://img.shields.io/badge/Electron-47848F?logo=electron&logoColor=white)
+![ElectricSQL](https://img.shields.io/badge/ElectricSQL-4D77FF?logo=postgresql&logoColor=white)
+
 
 ### 📌 Featured Projects
 - [**szn-ui-react-native-bottom-sheet**](https://github.com/ZainNemat/szn-ui-react-native-bottom-sheet) – A smooth, customizable bottom sheet component for React Native with gesture support, keyboard awareness, and animations.  
-- [**Ztuth**](https://ztuth.com) – A multi-platform dental SaaS ecosystem (Electron, React Native, NestJS, PostgreSQL, AWS).  
+- [**Ztuth**](https://ztuth.com) – A multi-platform dental SaaS ecosystem (Electron, React Native, NestJS, PostgreSQL, AWS).
+- [**Ztuth Desktop (ElectronJS + NestJS)**](https://ztuth.com) – Production-ready Electron SaaS with backend sync, invoices, WhatsApp integration, and multi-tenant architecture.  
+- [**Ztuth Mobile (Expo + ElectricSQL)**](https://ztuth.com) – Mobile companion app built with Expo and offline-first database sync.  (In development)
 - [**Python Notes**](https://github.com/ZainNemat/Python-notes) – Notes & snippets covering Python basics to advanced concepts.  
 
 ### 📊 GitHub Stats
